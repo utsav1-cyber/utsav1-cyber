@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me utsav.bay20@gmail.com
+- 📫 How to reach me utsav@bay20.com
 
 <!---
 utsav1-cyber/utsav1-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
